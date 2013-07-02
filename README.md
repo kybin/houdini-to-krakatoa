@@ -1,4 +1,4 @@
 houdini-to-krakatoa
 ===================
 
-just a rough sketch
+run this on houdini
